@@ -54,4 +54,7 @@
 | 예약 페이지 <br> 숙박 예약 | ![goodplace-stayOrder](https://user-images.githubusercontent.com/108847541/202964538-a8fd212f-946d-4f0f-90dd-9145d38d0ed5.gif) | FE<br>`김 솔`<br>`최 현`<br>BE<br>`이현태` | - 지정한 체크인·체크아웃날짜/숙소/방을 body에 담아 post요청  |
 | 예약 내역 페이지<br> 예약 내역 조회<br>예약 내역 삭제<br>예약 내역 상세 | ![goodplace-orderList](https://user-images.githubusercontent.com/108847541/202964694-ea441049-fbf0-4301-89cb-0d02a6c274dd.gif) | FE<br>`모유진`<br>BE<br>`이현태` | - 예약한 데이터 조회<br> - 예약 내역 클릭 시 예약 상세 페이지 데이터 로드 |
 
+<br />
+## 🔗 개인 회고록
 
+> [agnesofdeo.log [>wecode] 2차 프로젝트 회고록](https://velog.io/@agnesofdeo/wecode-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9A%8C%EA%B3%A0%EB%A1%9D)
